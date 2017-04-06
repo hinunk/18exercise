@@ -1,6 +1,20 @@
 let timeCode = `
-
-
+var obj = {
+    name:'hak',
+    age:'21',
+    gender:'male'
+}
+var study = function(){
+    'HyperText Markup Language'
+    'Cascading Style Sheet'
+    'JavaScript'
+    'HyperText Transfer Protocol'
+    'Linux'
+}
+Websites = [
+    {Github:},
+    {blog:}
+]
 `
 let n = 0
 
